@@ -1,0 +1,10 @@
+streamlit
+groq
+python-dotenv
+PyMuPDF                  # PDF text extraction
+Pillow                   # Image handling
+bcrypt                   # Password hashing
+google-genai             # Gemini Flash (vision)
+langchain                # RAG orchestration
+langchain-community      # Vector store helpers
+langchain-google-genai   # Gemini embeddings + chat for LangChain
